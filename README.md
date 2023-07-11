@@ -8,7 +8,6 @@ This project aims to develop a Next-Gen Web ATMs front-end implementation that p
  
 ## Features
 
-**Key Technologies & Features**
 - XState
 XState is a powerful library that allows for creating, interpreting, and executing finite state machines and statecharts. It is used in this implementation to manage complex application state and provide smooth transitions between different states.
 
