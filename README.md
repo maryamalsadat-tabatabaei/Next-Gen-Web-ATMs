@@ -35,6 +35,9 @@ React Router is a routing library used to handle client-side routing in a single
 - `Workbox`:
 Workbox is a set of libraries used for implementing caching and offline capabilities using service workers. It enhances the performance of the web application by caching static assets, API responses, and other resources. Workbox-Core specifically provides core functionalities for managing service workers and caching strategies.
 
+- `WebSocket`:
+Implemented for real-time communication between the client-side and the server, enabling instant and efficient data exchange. The application utilized WebSockets to receive events and messages (e.g., Pinkeypressed, CardInsert) and to send messages (e.g., PrintReceipt, cashWithdrawal).
+
 
 ## Conclusion
 The Next-Gen Web ATMs front-end implementation combines cutting-edge technologies, best practices, and optimized development processes to provide an efficient and user-friendly banking experience for 3 million users. By utilizing XState, React, Material-UI, and other libraries, the application delivers highly interactive features, responsive design, and seamless navigation. The integration of i18next enables localization support, while Workbox enhances performance and offline capabilities. With a focus on agile development, code quality, and collaboration, the Next-Gen Web ATMs implementation sets a solid foundation for a scalable and robust front-end solution.
